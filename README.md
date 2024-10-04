@@ -19,4 +19,4 @@ This dashboard shows how a call centre has performed over the last six months.  
 -	Used data validation to add interactivity to the dashboard.
 
 
-![Screenshot (67)](https://github.com/shipv11/PythonProject_ExploratoryDataAnalysis/assets/134296097/0489840a-7721-49d5-ade9-c96360710455)
+![](https://github.com/shipv11/ExcelProject_CallCentreAnalysis/blob/main/Screenshot%202024-10-04%20190737.png)
